@@ -10,6 +10,7 @@ Proyecto fue desarrollado usando:
 * Node
 * Express
 * Typescript
+* [AWS SDK](https://www.npmjs.com/package/aws-sdk)
 * [Sequelize](https://sequelize.org/master/)
 * [Lambda AWS](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/clients/client-lambda/index.html)
 * [SES AWS](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SES.html)
